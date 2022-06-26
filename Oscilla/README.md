@@ -20,3 +20,5 @@ however, cannot be released under any other type of license. The
 requirement for fonts to remain under this license does not apply
 to any document created using the fonts or their derivatives.
 ```
+
+![Artboard 2](https://user-images.githubusercontent.com/1999954/175802587-c0385451-1cf4-471b-8667-c3db3b1aacff.jpg)
