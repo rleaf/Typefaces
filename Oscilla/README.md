@@ -22,3 +22,7 @@ to any document created using the fonts or their derivatives.
 ```
 
 ![Artboard 2](https://user-images.githubusercontent.com/1999954/175802587-c0385451-1cf4-471b-8667-c3db3b1aacff.jpg)
+
+<h2 align="center">
+  <a href="https://github.com/rleaf/Typefaces/raw/main/Oscilla/Oscilla.otf">Download</a>
+</h2>
