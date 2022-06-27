@@ -21,7 +21,7 @@ requirement for fonts to remain under this license does not apply
 to any document created using the fonts or their derivatives.
 ```
 
-![Artboard 2](https://user-images.githubusercontent.com/1999954/175802587-c0385451-1cf4-471b-8667-c3db3b1aacff.jpg)
+![Artboard 1](https://user-images.githubusercontent.com/1999954/175857028-60077ea9-d3bb-4326-82a2-fea2cde3c9c3.jpg)
 
 <h2 align="center">
   <a href="https://github.com/rleaf/Typefaces/raw/main/Oscilla/Oscilla.otf">Download</a>
