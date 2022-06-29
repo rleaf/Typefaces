@@ -21,7 +21,10 @@ requirement for fonts to remain under this license does not apply
 to any document created using the fonts or their derivatives.
 ```
 
+![expanseland](https://user-images.githubusercontent.com/1999954/176335156-983c4d61-4164-4e17-afa4-d5213e7001ae.jpg)
+![quickbrownfox](https://user-images.githubusercontent.com/1999954/176335092-391b0a32-ea6c-4e42-9e26-d3074abb69f9.png)
 
 <h2 align="center">
   <a href="https://github.com/rleaf/Typefaces/raw/main/Expanse/Expanse.otf">Download</a>
 </h2>
+
